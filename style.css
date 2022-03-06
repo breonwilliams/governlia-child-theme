@@ -13,3 +13,482 @@ Text Domain:	 governlia-child-theme
 /*
     Add your custom styles here
 */
+
+/* Default Color File  */
+
+
+
+
+/* Color */
+a:hover,
+a {
+    color: #063ea9;
+}
+
+.scroll-to-top:hover,
+.preloader-close,
+.search-popup .search-form fieldset input[type="submit"] {
+    background-color: #063ea9;
+}
+
+.scroll-to-top {
+    color: #063ea9;
+    border: 2px dashed #063ea9;
+}
+
+
+.btn-style-one.style-two i {
+    color: #063ea9;
+}
+
+.btn-style-one.style-two:before {
+    background: #063ea9;
+}
+
+.btn-style-one.style-two:hover {
+    border-color: #063ea9;
+}
+
+.btn-style-one {
+    background-color: #063ea9;
+}
+
+.main-menu .navigation>li>ul>li>a:hover {
+    color: #063ea9;
+}
+
+.main-menu .navigation>li>ul>li>ul>li>a:hover {
+    color: #063ea9;
+}
+
+.banner-section .banner-slider-button-next:hover {
+    background-color: #063ea9;
+}
+
+.banner-section .banner-slider-button-prev:hover {
+    background-color: #063ea9;
+}
+
+
+.btn-style-one.style-two:before {
+    background: #063ea9;
+    opacity: 1;
+}
+
+.btn-style-one.style-four:after {
+    color: #063ea9;
+}
+
+.btn-style-one.style-four:before {
+    background-color: #063ea9;
+}
+
+.header-top .text a {
+    color: #063ea9;
+}
+
+
+.header-top .phone a i {
+    color: #063ea9;
+}
+
+.header-top .header-top-menu li a:hover {
+    color: #063ea9;
+}
+
+.header-top .social-icon li a:hover {
+    border-color: #063ea9;
+    background-color: #063ea9;
+}
+
+.main-menu .navigation>li.current>a {
+    color: #eab207;
+}
+
+.banner-section .our-facts .count-box {
+    color: #063ea9;
+}
+
+.sec-title .sub-title {
+    color: #063ea9; 
+}
+
+
+.main-footer .footer-top .newsletter-form .theme-btn {
+    background-color: #063ea9;
+}
+
+.main-footer .footer-top .newsletter-form .theme-btn:hover {
+    color: #063ea9;
+}
+
+
+.about-widget .social-links li a:hover {
+    border-color: #063ea9;
+    background-color: #063ea9;
+}
+
+.about-widget .social-links li a:before {
+    background: #063ea9;
+}
+
+.links-widget ul li a:hover {
+    color: #063ea9;
+}
+
+.about-section .content-block .list li:after {
+    color: #063ea9;
+}
+
+.about-section .content-block .contact-link li a:hover {
+    background-color: #063ea9;
+}
+
+.about-section .content-block .contact-link li a:before {
+    background: #063ea9;
+}
+
+.funfacts-section .inner:hover .icon {
+    background-color: #063ea9;
+    border-color: #063ea9;
+}
+
+.funfacts-section .icon:before {
+    background: #063ea9;
+}
+
+
+.program-block .inner-box:hover .shape svg path {
+    fill: #063ea9;
+}
+
+.program-block .icon {
+    color: #063ea9;
+}
+.program-block .category:before {
+    background-color: #063ea9;
+}
+
+.program-block .category a:hover {
+    color: #063ea9;
+}
+
+.project-block .link-btn a:hover {
+    background-color: #063ea9;
+}
+
+.service-block .inner-box:before {
+    border-bottom: 1px solid #063ea9;
+}
+
+.service-block .icon {
+    color: #063ea9;
+}
+
+.service-block .inner-box:hover .icon:before {
+    background-color: #063ea9;
+}
+
+.service-block .link-btn a span {
+    color: #063ea9;
+}
+
+.highlights-section .highlight-slider-control:hover {
+    background-color: #063ea9;
+}
+
+.event-block .date {
+    background-color: #063ea9;
+}
+
+.event-block .location i {
+    color: #063ea9;
+}
+
+.video-section .video-btn span {
+    background-color: #063ea9;
+}
+
+.testimonial-block .content {
+    border-top: 2px solid #063ea9;
+}
+
+.contact-info-block .icon {
+    color: #063ea9;
+}
+
+.news-block .category:before {
+    background-color: #063ea9;
+}
+
+.news-block .category a:hover {
+    color: #063ea9;
+}
+
+.news-block h4 a:hover {
+    color: #063ea9;
+}
+
+
+.news-block .post-meta li i {
+    color: #063ea9;
+}
+
+.news-section .owl-dots .owl-dot:hover,
+.news-section .owl-dots .owl-dot.active{
+    background-color:#063ea9;
+}
+
+.main-header.header-style-two .header-upper .search-form-two button {
+    color: #063ea9;
+}
+
+.header-top-two ul.contact-info li i {
+    color: #063ea9;
+}
+
+.feature-block .category:before {
+    background-color: #063ea9;
+}
+
+.feature-block .category a:hover {
+    color: #063ea9;
+}
+
+.feature-block .overlay {
+    border-bottom: 3px solid #063ea9;
+}
+
+.feature-block .overlay .link-btn a {
+    background-color: #063ea9;
+}
+
+.feature-block-two .icon {
+    color: #063ea9;
+}
+
+.service-blok-two .inner-box:before {
+    background-color: #063ea9;
+}
+
+.service-blok-two .icon {
+    color: #063ea9;
+}
+
+.event-block-two .date {
+    color: #063ea9;
+}
+
+.event-block-two .category:before {
+    background-color: #063ea9;
+}
+
+.event-block-two .category a:hover {
+    color: #063ea9;
+}
+
+.event-block-two .link-btn a:hover {
+    background-color: #063ea9;
+}
+
+.services-section-three .list li:after {
+    color: #063ea9;
+}
+
+.services-section-three .ourfacts .inner:hover .icon {
+    background-color: #063ea9;
+    border-color: #063ea9;
+}
+
+.services-section-three .ourfacts .icon:before {
+    background: #063ea9;
+}
+
+.team-block .link-btn a:hover {
+    background-color: #063ea9;
+}
+
+.team-block .overlay .content-two .designation {
+    color: #063ea9;
+}
+
+.team-block .contact-info li a i {
+    color: #063ea9;
+}
+
+.team-block .social-links a:hover {
+    color: #063ea9;
+}
+
+.page-title .post-meta li i {
+    color: #063ea9;
+}
+
+.depertment-details .list li:after {
+    color: #063ea9;
+}
+
+.depertment-details .feature-block .icon {
+    color: #063ea9;
+}
+
+.categories-list li a i {
+    color: #063ea9;
+}
+
+.categories-list li.current a {
+    background-color: #063ea9;
+    border-color: #063ea9;
+}
+
+.page-pagination a:hover {
+    color: #063ea9;
+}
+
+.page-pagination .prev-page i {
+    color: #063ea9;
+}
+
+.page-pagination .prev-page i:before {
+    color: #063ea9;
+}
+
+.page-pagination a:hover {
+    border-color: #063ea9;
+}
+
+.page-pagination .next-page i {
+    color: #063ea9;
+}
+
+.page-pagination .next-page i:before {
+    color: #063ea9;
+}
+
+.post-pagination span {
+    border: 1px solid #063ea9;
+    background-color: #063ea9;
+}
+
+.post-pagination a:hover {
+    color: #063ea9;
+}
+
+.post-pagination a:hover {
+    border-color: #063ea9;
+}
+
+.widget_popular_post .content h5 a:hover {
+    color: #063ea9;
+}
+
+.widget_tag_cloud li a:hover {
+    background-color: #063ea9;
+}
+
+.news-block-two .category a:hover {
+    color: #063ea9;
+}
+
+.news-block-two h4 a:hover {
+    color: #063ea9;
+}
+
+.news-block-two .post-meta li i {
+    color: #063ea9;
+}
+
+blockquote .quote {
+    color: #063ea9;
+}
+
+.blog-single-post .post-share-info .tag i {
+    color: #063ea9;
+}
+
+.blog-single-post .social-links li a:before {
+    background: #063ea9;
+}
+
+.comments-area .comment-box .theme-btn:after {
+    color: #063ea9;
+}
+
+.blog-single-post .author-box {
+    background: #063ea9;
+}
+
+.btn-style-one.style-two:hover {
+    background: #063ea9;
+}
+
+.sec-title h2:before {
+	background-color:#063ea9 !important;
+}
+
+.sec-title h2:after {
+	background-color:#063ea9 !important;
+}
+
+.widget .widget-title:before,
+.main-footer .widget .widget-title:before {
+    background-color: #063ea9 !important;
+}
+
+.widget .widget-title:after,
+.main-footer .widget .widget-title:after{
+    background-color: #063ea9 !important;
+}
+
+.blog-sidebar .widget .widget-title:before {
+    background-color: #063ea9 !important;
+}
+
+.blog-sidebar .widget .widget-title:after{
+    background-color: #063ea9 !important;
+}
+
+.comments-title:before {
+    background-color: #063ea9 !important;
+}
+
+.comments-title:after{
+    background-color: #063ea9 !important;
+}
+
+.contact-info-section h3:before {
+    background-color: #063ea9 !important;
+}
+
+.contact-info-section h3:after{
+    background-color: #063ea9 !important;
+}
+
+.pagination li a:focus, .pagination li a:hover, .pagination li span:focus, .pagination li span:hover, .pagination li span.current{
+    border: 1px solid #063ea9 !important;
+    background-color: #063ea9 !important;
+}
+
+.widget ul li a:hover{
+	color:#063ea9 !important;
+}
+
+.widget .tagcloud a:hover{
+	background-color: #063ea9 !important;
+}
+
+.service-widget .widget-title:before,
+.footer-widget .widget-title:before {
+    background-color: #063ea9 !important;
+}
+
+.service-widget .widget-title:after,
+.footer-widget .widget-title:after{
+    background-color: #063ea9 !important;
+}
+
+.event-details-timer-box .title-box {
+	background: #063ea9 !important;
+}
+
+
